@@ -1,1 +1,1 @@
-# odin-recipes
+the current project is to build a website about food recipes. I will demonstrate how to add links and images to a website. I will also be committing to github.
